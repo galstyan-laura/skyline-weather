@@ -54,14 +54,12 @@ To verify the application logic and run automated unit tests, use pytest:
 pytest
 
 
-**Author**
+## Author
 Laura Galstyan
 
 Informatics and Applied Mathematics Student at Yerevan State University
 
 
-**License**
+## License
 Skyline Weather is open-source. Feel free to use and modify it for your projects.
 
-# skyline-weather
->>>>>>> 42c37ea954682b54c1f0da152da2350e4a77e802
