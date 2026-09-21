@@ -1,7 +1,5 @@
 # Skyline Weather — Real-Time Meteorological Intelligence Dashboard
 
-<p align="center"><img src="docs/static/teaser/teaser.jpg" width="100%"/></p>
-
 ## Introduction
 
 **Skyline Weather** is a modern, enterprise SaaS-style weather and atmospheric telemetry dashboard inspired by Ventusky and Apple Weather. Built with Python, Streamlit, and Plotly, the application is designed to deliver precise meteorological data visualizations, interactive hourly trends, and robust automated testing.
